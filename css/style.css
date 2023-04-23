@@ -109,7 +109,8 @@ body {
 .label {
     display: inline-flex;
     padding: 5px 19px;
-    background-color: #fbb731;
+    color: #ffffff;
+    background-color: #f37335;
     border-radius: 14px;
     margin-bottom: 3px;
     text-transform: uppercase;
