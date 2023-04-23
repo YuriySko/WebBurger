@@ -95,7 +95,7 @@ body {
     margin-bottom: 185px;
     width: 580px;
     height: 395px;
-    background: #1e2f40;
+    /* background: #1e2f40; */
     background-size: cover;
     background-repeat: no-repeat;
     padding-left: 50px;
@@ -109,7 +109,7 @@ body {
 .label {
     display: inline-flex;
     padding: 5px 19px;
-    background-color: #f37335;
+    background-color: #fbb731;
     border-radius: 14px;
     margin-bottom: 3px;
     text-transform: uppercase;
